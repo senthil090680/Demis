@@ -1,0 +1,20 @@
+Url: https://nieveenlima.pe:2443/siteworx/
+User: naresh@digient.in
+pass: digi123
+domain. nieveenlima.pe
+
+
+
+IP: 207.32.178.50
+User: digient@nieveenlima.pe
+Pass: digi123
+
+newpass: digient123
+
+
+http://nieveenlima.pe/juego_dev/data.php
+
+
+UN: admin
+
+PASSWORD:  10buitro!

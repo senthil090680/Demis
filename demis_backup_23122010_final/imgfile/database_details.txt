@@ -1,0 +1,10 @@
+db: localhost
+[12:54:10 PM] Johnson Irudayaraj: db name: snow
+[12:54:10 PM] Johnson Irudayaraj: db username: ticket
+[12:54:20 PM] Johnson Irudayaraj: db pass: mysql4digient
+
+FTP: ftp.digient.in
+UN: snow@digient.in
+pw:SqmwK7CTWq
+
+http://digient.in/phpadmin/index.php?db=snow&token=c9fc66a324534f3200dcb76fa96e817d
